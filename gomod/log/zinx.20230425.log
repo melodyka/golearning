@@ -1,0 +1,14 @@
+2023/04/25 22:19:36 [ERROR]globalobj.go:96: Config File D:\go first\gomod\conf\zinx.json is not exist!!
+2023/04/25 22:19:36 [INFO]msghandler.go:105: Add Router msgID = 0
+2023/04/25 22:19:36 [INFO]server.go:277: [START] Server name: ZinxServerApp,listener at IP: 0.0.0.0, Port 8999 is starting
+2023/04/25 22:19:36 [INFO]msghandler.go:110: Worker ID = 0 is started.
+2023/04/25 22:19:36 [INFO]msghandler.go:110: Worker ID = 2 is started.
+2023/04/25 22:19:36 [INFO]msghandler.go:110: Worker ID = 4 is started.
+2023/04/25 22:19:36 [INFO]msghandler.go:110: Worker ID = 3 is started.
+2023/04/25 22:19:36 [INFO]msghandler.go:110: Worker ID = 1 is started.
+2023/04/25 22:19:36 [INFO]msghandler.go:110: Worker ID = 6 is started.
+2023/04/25 22:19:36 [INFO]msghandler.go:110: Worker ID = 5 is started.
+2023/04/25 22:19:36 [INFO]msghandler.go:110: Worker ID = 8 is started.
+2023/04/25 22:19:36 [INFO]msghandler.go:110: Worker ID = 9 is started.
+2023/04/25 22:19:36 [INFO]msghandler.go:110: Worker ID = 7 is started.
+2023/04/25 22:20:01 [INFO]server.go:318: [SERVE] Zinx server , name ZinxServerApp, Serve Interrupt, signal = interrupt
